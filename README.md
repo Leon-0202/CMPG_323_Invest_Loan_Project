@@ -1,4 +1,4 @@
-# CMPG_323_Invest_Loan_Project - Development
+# CMPG_323_Invest_Loan_Project - Production
 Repository for Homework 1 &amp; 2 for CMPG 323.
 
 The problem to solve was to create an application for a semester project with real life application.
